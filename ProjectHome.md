@@ -1,0 +1,1 @@
+The ROMs in NES Goodset mostly have the problem that marked with [[o](o.md)](overdump). Just check these out and fix them if u would not like to download another!
